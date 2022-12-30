@@ -12,4 +12,4 @@ Assignments cover:
 <li> Data Engineering Pipeline (AWS)
 </ul>
 
-My final project for this course was an implementation of a vector search engine; repo (here)[https://github.com/CS-Edwards/vector_search_engine].
+My final project for this course was an implementation of a vector search engine; repo [here](https://github.com/CS-Edwards/vector_search_engine).
