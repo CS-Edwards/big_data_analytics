@@ -1,0 +1,1 @@
+Assignment 2: Data analysis using classification techniques: tfidf, knn, FAISS L2 (knn), zero-shot.
