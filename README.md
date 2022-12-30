@@ -1,4 +1,4 @@
-#ICS691B:Big Data Analytics
+# ICS691B:Big Data Analytics
 
 Repo for course work Fall '22 semester, ICS691: Big Data Analytics.<br>
 
